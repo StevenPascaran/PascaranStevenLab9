@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "995600857707",
+    "firebase_url": "https://pascaranstevenlab9.firebaseio.com",
+    "project_id": "pascaranstevenlab9",
+    "storage_bucket": "pascaranstevenlab9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995600857707:android:83de56d2aebafe98",
+        "android_client_info": {
+          "package_name": "com.pascaran.steven"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995600857707-c8vdur55hsqdpvjffsfapj4b0304s8at.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClIm8yC2rK0-kBrVGC1nBA3bd6vFvvTko"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
